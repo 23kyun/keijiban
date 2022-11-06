@@ -1,0 +1,121 @@
+header{
+    top: 150px;
+    left: 0px;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+
+header ul{
+    float: left;
+    line-height: 40px;
+}
+
+header ul li{
+    float: left;
+    list-style: none;
+    padding-right: 40px;
+    color: white;
+    font-size: 14px;
+}
+
+.left{
+    float: left;
+    width: 70%;
+    margin-right: 30px;
+}
+
+.left h1{
+    margin-top: 20px;
+    width: 950px;
+    border-left:5px solid black;
+    border-bottom:2px solid black;
+}
+
+form{
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 5px;
+    width: 950px;
+}
+
+form h2{
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    border-left: 8px red solid;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+form div{
+    padding: 15px;
+}
+
+.text,textarea{
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    color: #ebebeb;
+    background: #fff;
+}
+
+.submit{
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+}
+
+.right{
+    float: left;
+    width: 20%;
+    margin-top: 5px;
+}
+
+.right h2{
+    border-bottom: 2px dotted black;
+}
+
+.right ul{
+    list-style: none;
+    margin-left: -20px;
+    line-height: 2;
+}
+
+.kiji{
+    margin-top: 20px;
+    clear: both;
+    width: 990px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.kiji h2{
+    border-bottom: 2px solid lightgray;
+    margin-top: 8px;
+    margin-left: 8px;
+
+}
+
+.kiji_nakami{
+    padding: 10px;
+}
+
+footer{
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+footer p{
+    padding: 15px;
+}
